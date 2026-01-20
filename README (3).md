@@ -33,7 +33,7 @@ Também inclui uma alternativa usando **Política de Grupo Local (gpedit.msc)**.
 5. Clique em **Aplicar** e **OK**.
 
 ### 📸 Captura de Tela
-![habilitar_oraculo](habilitar_oraculo.png)
+![Editor de Registro](images/editor%20de%20registro.png)
 
 ---
 
@@ -75,7 +75,7 @@ Modificar o Registro pode afetar o sistema. Faça com cuidado.
 5. **Reinicie o computador**.
 
 ### 📸 Captura de Tela
-![editor_de_registro](editor_de_registro.png)
+![Habilitar Oráculo](images/habilitar%20oraculo.png)
 
 ---
 
